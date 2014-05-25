@@ -2,7 +2,7 @@ R-programming
 =============
 ##Assignment2:
 
-* In our working directory, we explore the structure of the files provided. We open them and check dimensions to match files. We rename the files "X_train.txt" and "X_test.txt"" with "features.txt"; and give column names to "subject_" and "y_" files.
+* In our working directory ("\\UCI HAR Dataset"), we explore the structure of the files provided. We open them and check dimensions to match files. We rename the files "X_train.txt" and "X_test.txt"" with "features.txt"; and give column names to "subject_" and "y_" files.
 
 * We create training set and test set "cbinding" the correspondant subject, Y_ and X_ files.
 
